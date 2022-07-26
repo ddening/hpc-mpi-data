@@ -8,7 +8,7 @@ REM # =========================
 
 @echo off
 
-echo Running perfomance evaluation ...
+echo Running performance evaluation ...
 set max_gen=20000
 
 setlocal EnableDelayedExpansion
